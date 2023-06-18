@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ztrvl-react-website/static/css/main.eff8ca17.css",
+    "main.js": "/ztrvl-react-website/static/js/main.a7a58e2f.js",
+    "static/media/products.jpg": "/ztrvl-react-website/static/media/products.44803002ff8dad98f642.jpg",
+    "static/media/service.jpg": "/ztrvl-react-website/static/media/service.5bc6f33a96b484961ed5.jpg",
+    "static/media/Home.jpg": "/ztrvl-react-website/static/media/Home.a0b7fe9bbad3ba67d113.jpg",
+    "static/media/taj.jpg": "/ztrvl-react-website/static/media/taj.92006e2a41d0737c339f.jpg",
+    "static/media/tamilnadu.jpg": "/ztrvl-react-website/static/media/tamilnadu.cf892979864f9563b498.jpg",
+    "static/media/kerala.jpg": "/ztrvl-react-website/static/media/kerala.cdea77f6e9a86cf93049.jpg",
+    "static/media/kolkata.jpg": "/ztrvl-react-website/static/media/kolkata.692be0cff11f0d82425f.jpg",
+    "static/media/rajasthan.jpg": "/ztrvl-react-website/static/media/rajasthan.427d98bed617b9894c2e.jpg",
+    "static/media/signup.jpg": "/ztrvl-react-website/static/media/signup.3a179d8f18b187aa4759.jpg",
+    "index.html": "/ztrvl-react-website/index.html",
+    "main.eff8ca17.css.map": "/ztrvl-react-website/static/css/main.eff8ca17.css.map",
+    "main.a7a58e2f.js.map": "/ztrvl-react-website/static/js/main.a7a58e2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff8ca17.css",
+    "static/js/main.a7a58e2f.js"
+  ]
+}
