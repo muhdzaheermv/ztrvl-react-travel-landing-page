@@ -50,7 +50,7 @@ A beautifully designed **travel planner landing page** developed using **React.j
 
 ### 🖥️ Homepage
 
-![ZTRVL Homepage](src/assets/images/ztrvl-homepage.png
+![ZTRVL Homepage](./src/assets/images/ztrvl-homepage.png)
 
 ---
 
