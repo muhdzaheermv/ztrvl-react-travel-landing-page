@@ -97,12 +97,3 @@ The app will open at `http://localhost:3000`.
 ---
 
 ## ⭐️ Don't forget to Star the repo if you like it!
-
-```
-
----
-
-Let me know the **live link** when it's available (if different than assumed), or upload **screenshots** so I can add them too.
-
-Ready for the next project whenever you are!
-```
