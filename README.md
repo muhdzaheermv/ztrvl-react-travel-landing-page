@@ -1,3 +1,4 @@
+
 # ZTRVL – Travel Planner Landing Page 🌍✈️
 
 ![React](https://img.shields.io/badge/React-v18-blue?logo=react)
@@ -8,7 +9,7 @@ A beautifully designed **travel planner landing page** developed using **React.j
 
 ## 🚀 Live Demo
 
-👉 [Live Website][(https://ztrvl-travel-landing-page.vercel.app/) *(Replace with actual URL if different)*  ](https://ztrvl-react-website.vercel.app/#/)
+👉 [Live Website](https://ztrvl-react-website.vercel.app/#/) 
 👤 [View Creator on LinkedIn](https://www.linkedin.com/in/muhammed-zaheer-836132244/)  
 🌐 [Portfolio Website](https://portfolio-lilac-eight-60.vercel.app/)
 
@@ -61,3 +62,47 @@ Clone the repository:
 ```bash
 git clone https://github.com/muhammedzaheer/ztrvl-react-travel-landing-page.git
 cd ztrvl-react-travel-landing-page
+````
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project locally:
+
+```bash
+npm start
+```
+
+The app will open at `http://localhost:3000`.
+
+---
+
+## 🧪 Usage
+
+* Showcase travel destinations or packages
+* Use as a frontend for a travel-related service
+* Customize for personal or agency branding
+
+---
+
+## 📞 Contact
+
+* 📧 Email: [muhdzaheermv@gmail.com](mailto:muhdzaheermv@gmail.com)
+* 💼 LinkedIn: [Muhammed Zaheer](https://www.linkedin.com/in/muhammed-zaheer-836132244/)
+* 🌐 Portfolio: [https://portfolio-lilac-eight-60.vercel.app/](https://portfolio-lilac-eight-60.vercel.app/)
+
+---
+
+## ⭐️ Don't forget to Star the repo if you like it!
+
+```
+
+---
+
+Let me know the **live link** when it's available (if different than assumed), or upload **screenshots** so I can add them too.
+
+Ready for the next project whenever you are!
+```
