@@ -1,34 +1,63 @@
-# TRVL - React Travel Site
+# ZTRVL – Travel Planner Landing Page 🌍✈️
 
-![Twitter Follow](https://img.shields.io/twitter/follow/tylertlai?style=social)
+![React](https://img.shields.io/badge/React-v18-blue?logo=react)
+![Responsive](https://img.shields.io/badge/Responsive-Design-brightgreen)
+![Status](https://img.shields.io/badge/Project-Live-brightgreen)
 
-TRVL is a <code>React</code> single page application that allows users to get travel deals.
+A beautifully designed **travel planner landing page** developed using **React.js**, ideal for travel startups, planners, and destination showcasing platforms.
 
-👉 [Live Demo](https://tylertlai.github.io/react-travel-site/#/)
+## 🚀 Live Demo
 
-![demo](https://raw.githubusercontent.com/TylerTLai/react-travel-site/master/src/assets/images/demo.png)
+👉 [Live Website][(https://ztrvl-travel-landing-page.vercel.app/) *(Replace with actual URL if different)*  ](https://ztrvl-react-website.vercel.app/#/)
+👤 [View Creator on LinkedIn](https://www.linkedin.com/in/muhammed-zaheer-836132244/)  
+🌐 [Portfolio Website](https://portfolio-lilac-eight-60.vercel.app/)
 
-![demo](https://raw.githubusercontent.com/TylerTLai/react-travel-site/master/src/assets/images/demo2.png)
+---
 
-## Technology used
+## 📚 Table of Contents
 
-- React
-- Custom CSS3
-- React Hooks
-- React Router
-- Github Pages
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 
-## Features
+---
 
-- Mobile responsive
+## ✨ Features
 
-## Using React Travel Site
+- Responsive and modern design
+- Clean UI with call-to-action sections
+- Mobile-friendly layout
+- Smooth scrolling navigation
+- Easy customization
 
-- Clone this repo to your local machine `git clone (https://github.com/TylerTLai/react-travel-site.git)`
-- run `npm install` to install all dependencies
-- run `npm start` to start server
-- head to `http://localhost:3000` to see the app.
+---
 
-## Contact
+## 🛠 Tech Stack
 
-If you want to contact me you can reach me at <lai.t.tyler@gmail.com>.
+- **React.js**
+- HTML5 + CSS3
+- JavaScript (ES6+)
+- Responsive Layout (Flexbox/Grid)
+
+---
+
+## 📸 Screenshots
+
+> *(Replace these with actual screenshots if available)*
+
+![ZTRVL Homepage Screenshot](./screenshots/homepage.png)
+![Responsive View](./screenshots/mobile.png)
+
+---
+
+## 🧰 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/muhammedzaheer/ztrvl-react-travel-landing-page.git
+cd ztrvl-react-travel-landing-page
